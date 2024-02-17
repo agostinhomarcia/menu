@@ -40,6 +40,13 @@
   <img src="/src/assets/menu.gif" alt="teste-morty"  />
   
 </p>
+<hr />
+<p align='left'>
+Este aplicativo é uma plataforma de pedidos, onde os usuários podem navegar por diferentes categorias de produtos, visualizar itens disponíveis e adicioná-los a um carrinho de compras. A tela inicial, chamada "Faça seu pedido", apresenta uma lista de categorias horizontais e uma lista de produtos organizados por seção.
+
+A funcionalidade principal inclui adicionar produtos ao carrinho, visualizar o carrinho na tela de "Seu carrinho", remover itens do carrinho e realizar pedidos. Ao realizar um pedido, o usuário é solicitado a fornecer um endereço de entrega. Após a confirmação, o aplicativo parece enviar uma mensagem formatada via WhatsApp para um número específico, possivelmente para confirmar o pedido com o estabelecimento.
+
+</p>
 
 ## :sparkles: Features
 
