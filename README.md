@@ -9,17 +9,14 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/teste-rick-and-morty?color=eb4034">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/menu?color=eb4034">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/teste-rick-and-morty?color=eb4034">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/menu?color=eb4034">
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/teste-rick-and-morty?color=eb4034">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/menu?color=eb4034">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/teste-rick-and-morty?color=eb4034" />
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/menu?color=eb4034" />
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/teste-rick-and-morty?color=eb4034" />
-
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/teste-rick-and-morty?color=eb4034" /> 
 </p>
 
 <p align="center">
@@ -42,34 +39,6 @@
 <p align="center">
   <img src="/src/assets/menu.gif" alt="teste-morty"  />
   
-</p>
-
-<p align="left">
-
-### Rick and Morty Explorer
-
-Este é um aplicativo desenvolvido em React Native com TypeScript que permite explorar informações sobre os personagens da famosa série Rick and Morty.
-
-#### Funcionalidades Principais
-
-###### Exibição de Personagens:
-
-A página inicial apresenta uma lista completa de personagens com seus respectivos nomes e imagens, permitindo uma rápida visualização dos principais protagonistas da série.
-
-Além da visualização da lista completa de personagens, o aplicativo oferece uma opção de busca, permitindo que os usuários encontrem rapidamente um personagem específico digitando o nome desejado em um campo de entrada. Essa funcionalidade agiliza a pesquisa e a localização de um personagem específico entre a vasta lista disponível, oferecendo uma experiência mais personalizada e direcionada.
-
-###### Detalhes dos Personagens:
-
-Ao tocar em um personagem da lista, você será direcionado para uma tela de detalhes. Lá, encontrará informações adicionais como status, espécie e outros detalhes relevantes que oferecem uma visão mais aprofundada de cada personagem.
-
-###### Tecnologias e Recursos Utilizados
-
-GraphQL e API do Rick and Morty: O aplicativo utiliza a API GraphQL fornecida para buscar informações sobre os personagens da série, garantindo acesso rápido e eficiente aos dados.
-
-###### Estilização Personalizada:
-
-O aplicativo foi estilizado usando styled-components, proporcionando uma experiência visual agradável e consistente.
-
 </p>
 
 ## :sparkles: Features
@@ -95,9 +64,9 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/teste-rick-and-morty.git
+$ git clone https://github.com/agostinhomarcia/menu.git
 # Access
-$ cd teste-rick-and-morty
+$ cd menu
 # Install dependencies
 $ expo install
 # Run the project
