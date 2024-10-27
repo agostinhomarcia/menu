@@ -42,9 +42,31 @@
 </p>
 <hr />
 <p align='left'>
-Este aplicativo é uma plataforma de pedidos, onde os usuários podem navegar por diferentes categorias de produtos, visualizar itens disponíveis e adicioná-los a um carrinho de compras. A tela inicial, chamada "Faça seu pedido", apresenta uma lista de categorias horizontais e uma lista de produtos organizados por seção.
 
-A funcionalidade principal inclui adicionar produtos ao carrinho, visualizar o carrinho na tela de "Seu carrinho", remover itens do carrinho e realizar pedidos. Ao realizar um pedido, o usuário é solicitado a fornecer um endereço de entrega. Após a confirmação, o aplicativo oferece a opção de enviar uma mensagem formatada via WhatsApp para um número específico, para confirmar o pedido com o estabelecimento.
+🛒 Simplificando pedidos, melhorando a experiência!
+
+Descrição do App: Através de uma interface intuitiva, o aplicativo permite que os usuários naveguem por categorias, explorem produtos detalhados e adicionem itens ao carrinho com um toque. A tela inicial "Faça seu pedido" centraliza tudo, organizando produtos e categorias de forma acessível.
+
+🔹 Principais Funcionalidades:
+
+1️⃣ Navegação Simples + Adição ao Carrinho
+Permite aos usuários explorar categorias, visualizar descrições, imagens e preços, e adicionar facilmente produtos ao carrinho.
+
+2️⃣ Carrinho de Compras Personalizável
+Os usuários podem revisar itens, ajustar quantidades e visualizar o total do pedido em tempo real.
+
+3️⃣ Finalização via WhatsApp
+Na finalização do pedido, o endereço de entrega é inserido, e uma mensagem formatada com o pedido é enviada diretamente ao WhatsApp do estabelecimento. Rápido e prático!
+
+4️⃣ Armazenamento Local e Persistência de Dados
+O carrinho fica salvo, mesmo que o usuário saia do app, garantindo uma experiência sem interrupções.
+
+🔧 Tecnologias Utilizadas:
+
+React Native e Expo para uma experiência rápida e multiplataforma.
+Zustand e AsyncStorage para manter o estado persistente dos dados do carrinho.
+Máscaras de Entrada e Formatação para dados padronizados e interface limpa.
+💡 Desafios e Soluções: Implementar a persistência de dados foi um dos principais desafios, especialmente ao integrar o Zustand com o AsyncStorage. Também realizamos testes rigorosos para garantir uma integração perfeita com o WhatsApp.
 
 </p>
 
