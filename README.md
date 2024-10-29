@@ -34,12 +34,15 @@
 
 ## :dart: About
 
-<h4 align="center"> Cart Burguer </h4>
+<div align="center">
+   <img src="/src/assets/app1.jpg" alt="app-burguer-1" width="250"/>
+   <img src="/src/assets/app2.jpg" alt="app-burguer-2" width="250"/>
+</div>
 
-<p align="center">
-  <img src="/src/assets/menu.gif" alt="teste-morty"  />
-  
-</p>
+<div align="center" style="margin-top: 20px;">
+   <img src="/src/assets/app4.jpg" alt="app-burguer-4" width="250"/>
+</div>
+
 <hr />
 <p align='left'>
 
