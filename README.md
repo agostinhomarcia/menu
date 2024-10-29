@@ -13,10 +13,6 @@
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/menu?color=eb4034">
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/menu?color=eb4034">
-
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/menu?color=eb4034" />
-
 </p>
 
 <p align="center">
