@@ -36,7 +36,7 @@
 <h2>Conheça o projeto 📺</h2>
 
 <div align="center">
-   <img src="/src/assets/menu.gif" alt="app-video" width="180" style="margin: 10px;"/>
+   <img src="/src/assets/menu.gif" alt="app-video" width="190" style="margin: 10px;"/>
    <img src="/src/assets/app1.jpg" alt="app-image-1" width="150" style="margin: 10px;"/>
    <img src="/src/assets/app2.jpg" alt="app-image-2" width="150" style="margin: 10px;"/>
    <img src="/src/assets/app4.jpg" alt="app-image-3" width="150" style="margin: 10px;"/>
