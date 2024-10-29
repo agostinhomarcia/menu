@@ -34,13 +34,20 @@
 
 ## :dart: About
 
+<p align="center">
+   <!-- Vídeo em destaque -->
+   <img src="/src/assets/menu.gif" alt="app-video" width="300"/>
+</p>
+
+<!-- Primeira linha de imagens -->
 <div align="center">
-   <img src="/src/assets/app1.jpg" alt="app-burguer-1" width="250"/>
-   <img src="/src/assets/app2.jpg" alt="app-burguer-2" width="250"/>
+   <img src="/src/assets/app1.jpg" alt="app-image-1" width="200" style="margin: 10px;"/>
+   <img src="/src/assets/app2.jpg" alt="app-image-2" width="200" style="margin: 10px;"/>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-   <img src="/src/assets/app4.jpg" alt="app-burguer-4" width="250"/>
+<!-- Segunda linha de imagens -->
+<div align="center">
+   <img src="/src/assets/app4.jpg" alt="app-image-3" width="200" style="margin: 10px;"/>
 </div>
 
 <hr />
